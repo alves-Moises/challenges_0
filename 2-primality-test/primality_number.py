@@ -14,7 +14,8 @@ def get_numb():
         else:
             valid = True
     return(numb)
-
+#asdasdasd
+#asdasd
 def get_prim(x):
     i = 1
     m = 0
